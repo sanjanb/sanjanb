@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sanjanacharaya1234@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/sanjan-acharya-9278a4250](www.linkedin.com/in/sanjan-acharya-9278a4250)
+- 📄 Know about my experiences [www.linkedin.com/in/sanjan-acharya](www.linkedin.com/in/sanjan-acharya)
 
 - ⚡ Fun fact **I think even could do things**
 
