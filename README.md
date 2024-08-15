@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/sanjan-acharya](www.linkedin.com/in/sanjan-acharya)
 
-- ⚡ Fun fact **I think even could do things**
+- ⚡ Fun fact **I think even i could do things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
