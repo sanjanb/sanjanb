@@ -68,9 +68,9 @@ I write regular blog posts, most of which you will find on my personal website [
 
 
   <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<a href="https://github.com/sanjanb">
+   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=sanjanb&show_icons=true&theme=dark" alt="Sanjan B M github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjan B M github stats" />
 <br>
      
 
@@ -79,7 +79,7 @@ I write regular blog posts, most of which you will find on my personal website [
   <details>	
     <summary><b>📚 Recent Projects/ Activity</b></summary><br>
 
-  ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
+  ✨ [Mental depression measure - ML](https://github.com/sanjanb/Mental-depression-measures)<br>
   ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
   ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
   ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
@@ -102,7 +102,7 @@ I write regular blog posts, most of which you will find on my personal website [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1690 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
+🌞 Morning                169 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
 🌆 Daytime                2078 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
 🌃 Evening                869 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
 🌙 Night                  493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
