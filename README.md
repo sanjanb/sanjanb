@@ -1,175 +1,141 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjanacharya/">Sanjan</a> </h1>
+# <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjan-bm/">Sanjan B M</a> </h1>
 
 <!--- Adding Header Elements -->
-
 <p align="center">
-  <a href="https://sanjanb.github.io/portfolio/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/sanjanacharya/">LinkedIn</a> -
-  <a href="https://twitter.com/sanjanacharya">Twitter</a> -
-  <a href="https://www.linkedin.com/in/sanjanacharya/">Contact me</a>
+  <a href="https://sanjanb.github.io/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/sanjan-bm/">LinkedIn</a> - 
+  <a href="https://x.com/SanjanAcharya7">Twitter</a> -
+  <a href="mailto:sanjanacharaya1234@gmail.com">Contact me</a> 
 </p>
 
----
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Vice Chair @ ATME IEEE SB | Published Researcher | AI & ML Enthusiast <br>
+⚡ Currently pursuing B.Tech in AI & ML at ATME College (CGPA: 9.19/10) <br>
+📫 How to reach me: [sanjanacharaya1234@gmail.com](mailto:sanjanacharaya1234@gmail.com)<br>
+👯 Open for collaborations in Open Source Projects<br>
+💬 Ask me about MERN Stack, AI/ML, and IEEE Activities<br>
 
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjanb/sanjanb/main/img/prof_pic.jpg" min-width="300px" max-width="300px" width="350px" align="right">
-✨ Web Developer & AI Enthusiast | Contributor @IEEE <br>
-⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/sanjanacharya/)<br>
-📫 How to reach me: [Mail me](mailto:sanjanacharya@example.com)<br>
-👯 Join my open-source community [GitHub](https://github.com/sanjanb)<br>
-💬 Ask me about Web Development, AI, or Machine Learning.<br>
-
-<!--- Adding Tech Stack Section -->
-
-<details>
- <summary><b>🛠 Tech Stack/Certifications</b></summary><br>
-Languages: <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<details>	
+ <summary><b>🛠 Tech Stack & Tools</b></summary><br>
+<b>Languages:</b> <br>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;<br>
-Frameworks and Libraries: <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat">&nbsp;<br>
-Tools and Platforms: <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat">&nbsp;<br>
-Operating Systems: <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-MacOS-999999?logo=apple&logoColor=white&style=flat">&nbsp;<br>
-</details>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat">&nbsp;<br>
 
-<!--- Certification Badges Section -->
+<b>Frameworks & Libraries:</b> <br>
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat">&nbsp;<br>
+
+<b>Databases:</b> <br>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;<br>
+
+<b>DevOps & Tools:</b> <br>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=flat">&nbsp;<br>
+
+<b>Operating Systems:</b> <br>
+<img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;<br>
 
 ## Certification Badges 🪶
-
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
-<img src="https://images.credly.com/size/340x340/images/0e284c3f-5111-4b97-8d3d-7481ff366a0d/image.png" width="100px" height="100px" />
-<a href="#">
-<img src="https://images.credly.com/size/340x340/images/f4d3fba4-8351-4c3e-b11d-7481ff366a0d/image.png" width="100px" height="100px" />
-<a href="#">
-<img src="https://images.credly.com/size/340x340/images/9b83fba4-8351-4c3e-b11d-7481ff366a0d/image.png" width="100px" height="100px" />
-<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
-<img src="https://images.credly.com/size/340x340/images/0e284c3f-5111-4b97-8d3d-7481ff366a0d/image.png" width="100px" height="100px" />
+<!-- Placeholder for future certifications -->
+<p align="center">Coming Soon...</p>
 </div>
+</details> 
 
-<!--- Curated Articles Section -->
+<!--- Experience Section -->
+<details>	
+  <summary><b>💼 Professional Experience</b></summary><br>
 
-<b>📝 Curated Articles</b><br>
-
-I write regular blog posts, most of which you will find on my personal website [Sanjan's Blog](https://sanjanacharya.com/blog)<br>
-Below are a few trending posts.👇<br>
-📘 [Mastering MERN Stack: A Comprehensive Guide](https://sanjanacharya.com/mern-stack-guide)<br>
-📒 [Building a GAN for Fashion Item Generation](https://sanjanacharya.com/gan-fashion-generation)<br>
-📙 [Deploying Machine Learning Models with TensorFlow](https://sanjanacharya.com/deploying-ml-models)<br>
-➡️ [more blog posts...](https://sanjanacharya.com/blog)
-
-<!--- GitHub Analytics Section -->
-
-<details>
-  <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjanb">
-   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=sanjanb&show_icons=true&theme=dark" alt="Sanjan's GitHub Stats" />
-   <img height="155em" src="https://raw.githubusercontent.com/sanjanb/github-stats/master/generated/overview.svg" alt="Sanjan's GitHub Stats" />
-<br>
+  🚀 **Web Developer (Freelance)** | Upwork | Jul 2020 – Present<br>
+  • Built responsive websites using React, Node, and MongoDB<br>
+  • Delivered scalable and real-time solutions for clients<br><br>
+  
+  🤖 **AI Intern** | COSMIC365.AI | May 2024 – Jun 2024<br>
+  • Built ML models and worked on data preprocessing<br>
+  • Collaborated on strategy and implementation for AI tools<br><br>
+  
+  📊 **Data Analyst Intern** | Apr 2024 – May 2024<br>
+  • Created dashboards and analytical reports using Power BI<br><br>
+  
+  👨‍💼 **Vice Chair** | IEEE ATMECE | Sep 2024 – Present<br>
+  • Organized workshops, seminars, and tech events on campus<br>
+  • Promoted professional development and tech culture among peers<br><br>
+  
+  💻 **Open Source Contributor** | GirlScript Winter & Social Winter of Code | Sep 2024 – Feb 2025<br>
+  • Developed blockchain solutions and contributed to social impact projects<br>
 </details>
 
-<!--- Recent Projects Section -->
+<!--- Projects Section -->
+<details>	
+  <summary><b>📚 Featured Projects</b></summary><br>
 
-<details>
-  <summary><b>📚 Recent Projects/Activity</b></summary><br>
+  ✨ **Fashion Item Generator using GANs** - [GitHub](https://github.com/sanjanb/GAN-GenAI)<br>
+  Implemented Generative Adversarial Networks to create unique fashion designs.<br><br>
+  
+  ✨ **Portfolio Website** - Built a responsive developer portfolio using React with smooth UX.<br><br>
+  
+  ✨ **Cafe Website** - Full-stack ordering platform using MERN stack with payment integration.<br><br>
+  
+  ✨ **GSI Dashboard** - Admin dashboard to manage q-commerce features built with React.<br><br>
+  
+  <a href="https://github.com/sanjanb?tab=repositories">View all projects →</a>
+</details> 
 
-✨ [Fashion Item Generator using GANs](https://github.com/sanjanb/GAN-GenAI)<br>
-✨ [Churn Prediction Model](https://github.com/sanjanb/NeuralNetwork-with-PyTorch)<br>
-✨ [FarmToTable Next.js E-commerce](https://github.com/sanjanb/FarmToTable-NextJs-Ecommerce)<br>
-✨ [IEEE ATMECE Projects](https://atmece.ac.in/)<br>
-✨ [Social Winter of Code (SWOC) Contributions](https://socialwinterofcode.com/)<br>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#3](https://github.com/sanjanb/sanjanb/pull/3) in [sanjanb/sanjanb](https://github.com/sanjanb/sanjanb)
-2. 💪 Opened PR [#3](https://github.com/sanjanb/sanjanb/pull/3) in [sanjanb/sanjanb](https://github.com/sanjanb/sanjanb)
-3. 🎉 Merged PR [#18](https://github.com/sanjanb/FarmToTable-NextJs-Ecommerce/pull/18) in [sanjanb/FarmToTable-NextJs-Ecommerce](https://github.com/sanjanb/FarmToTable-NextJs-Ecommerce)
-4. 💪 Opened PR [#18](https://github.com/sanjanb/FarmToTable-NextJs-Ecommerce/pull/18) in [sanjanb/FarmToTable-NextJs-Ecommerce](https://github.com/sanjanb/FarmToTable-NextJs-Ecommerce)
-5. 🎉 Merged PR [#3](https://github.com/sanjanb/sanjanb/pull/3) in [sanjanb/sanjanb](https://github.com/sanjanb/sanjanb)
-
-<!--END_SECTION:activity-->
-
+<!--- GitHub Stats Section -->
+<details>	
+  <summary><b>⚙️ GitHub Analytics</b></summary><br>
+  <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sanjanb&show_icons=true&theme=tokyonight" alt="Sanjan's GitHub Stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanb&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanb&theme=tokyonight" alt="GitHub Streak"/>
+  </p>
 </details>
 
-<details>
-  <summary><b>📈 Get my Code Stats</b></summary><br>
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤**
-
-🌞 Morning                169 commits        ████████░░░░░░░░░░░░░░░░░   32.94 %
-🌆 Daytime                2078 commits        ██████████░░░░░░░░░░░░░░░   40.51 %
-🌃 Evening                869 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 %
-🌙 Night                  493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-
-📅 **I'm Most Productive on Tuesday**
-
-Monday                   904 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 %
-Tuesday                  1332 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 %
-Wednesday                1042 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-Thursday                 328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Friday                   300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-Saturday                 435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Sunday                   789 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-
-📊 **This Week I Spent My Time On**
-
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages:
-JavaScript               16 hrs 10 mins      ████████████████████░░░░░   80.11 %
-CSS                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-C++                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-
-🔥 Editors:
-VS Code                  20 hrs 11 mins      █████████████████████████   100.00 %
-
-🐱‍💻 Projects:
-gssoc-website-new        8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.19 %
-Socials-Winter-Of-Code   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Frontend - Copy          1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-Error-frontend           1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Backend                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-
-💻 Operating System:
-Windows                  20 hrs 11 mins      █████████████████████████   100.00 %
-
-**I Mostly Code in JavaScript**
-
-JavaScript               21 repos            ███████████░░░░░░░░░░░░░░   45.65 %
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 %
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-ASP.NET                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-
-<!--END_SECTION:waka-->
-
+<!--- Blog Posts Section -->
+<details>	
+  <summary><b>📝 Publications & Blog Posts</b></summary><br>
+  <p align="center">Coming Soon...</p>
 </details>
 
-<!--- Footer Stats - Adding the Social Media Status count -->
+<!--- Education Section -->
+<details>	
+  <summary><b>🎓 Education</b></summary><br>
 
-<p align="left">
-<img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total GitHub views" />&nbsp;&nbsp;</a>
-<a href="https://twitter.com/sanjanacharya"><img src="https://img.shields.io/twitter/follow/sanjanacharya?label=Follow%20Me&style=social"></a>
-<a href="https://github.com/sanjanb"><img src="https://img.shields.io/github/stars/sanjanb?label=Star%20Gazers&style=social"></a>
-<a href="https://github.com/sanjanb"><img src="https://img.shields.io/github/followers/sanjanb?style=social"></a>
-<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a>
+  **Bachelor of Technology (B.Tech) in Artificial Intelligence and Machine Learning**<br>
+  ATME College of Engineering, Mysuru<br>
+  📅 *Expected Graduation:* 2026<br>
+  🎯 *CGPA:* 9.19 / 10
+</details>
+
+<!--- Connect Section -->
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjan-bm/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/SanjanAcharya7"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:sanjanacharaya1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/sanjanb"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<!--- Visit Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjanb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor count"/>
 </p>
 
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://www.linkedin.com/in/sanjanacharya/">Contact Details</a><br>
-<b>Show some ❤️ by starring some of the repositories!</b></p>
+<b>Thanks for visiting my profile! I'm always open to collaborations and interesting projects.</b>
+</p>
 
-<!--- Footer End -->
-<!--- Body End -->
+<p align="center">
+📞 Contact: +91 95357 52673 | ✉️ Email: sanjanacharaya1234@gmail.com
+</p>
